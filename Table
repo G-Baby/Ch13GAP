@@ -1,0 +1,22 @@
+<table>
+  <tr>
+    <th>name</th>
+    <th>height</th>
+    <th>country</th>
+  </tr>
+  <tr>
+    <td>Kilimanjaro</td>
+    <td>5895</td>
+    <td>Tanzania</td>
+  </tr>
+  <tr>
+    <td>Everest</td>
+    <td>8878</td>
+    <td>Nepal</td>
+  </tr>
+  <tr>
+    <td>Fugi</td>
+    <td>4000</td>
+    <td>Japan</td>
+  </tr>
+</table>
